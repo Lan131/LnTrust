@@ -1,2 +1,2 @@
 # LnTrust
-A model agnostic approch to decentralized learning
+A model agnostic approch to decentralized learning.
